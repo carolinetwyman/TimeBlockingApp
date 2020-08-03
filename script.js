@@ -35,3 +35,15 @@ $('.saveBtn').on('click', function () {
     localStorage.setItem(blockHour, descriptionBlock)
     $(this).siblings.textContent = localStorage.getItem('description')
 });
+
+$('.clearBtn').on('click', function () {
+    var saveIcon = $(this).children("i").addClass("spin")
+    localStorage.clear()
+    var descriptionBlock = $(".description").val('')
+    });
+
+    $('.fa-spin').on('animationiteration', function(event) {
+        if (done) {
+          $(event.target).removeClass('fa-spin');
+        }
+      });
