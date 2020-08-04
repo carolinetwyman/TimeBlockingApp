@@ -2,7 +2,7 @@
 
 This app helps you time block your days and help you get organized for living your life, today. Which day is it, exactly? That's displayed at the top of the page. 
 
-<img src="images/overall.PNG">
+<img src="images/overall.png">
 
 The present time is in a nice red color, so you can focus on the task at hand. 
 Everything in the past is greyed out, and everything you can look forward to is in a bright green color. 
