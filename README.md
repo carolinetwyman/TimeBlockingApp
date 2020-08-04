@@ -2,10 +2,12 @@
 
 This app helps you time block your days and help you get organized for living your life, today. Which day is it, exactly? That's displayed at the top of the page. 
 
-<img src="images/overall.png">
+<img src="images/liveview.png">
 
 The present time is in a nice red color, so you can focus on the task at hand. 
 Everything in the past is greyed out, and everything you can look forward to is in a bright green color. 
+
+<img src="images/key.png">
 
 If you know that you like to speed walk with Debra in the morning, you can just jot that down in the 10am block. Along with whatever else you have planned for the day.
 
