@@ -7,7 +7,7 @@ This app helps you time block your days and help you get organized for living yo
 The present time is in a nice red color, so you can focus on the task at hand. 
 Everything in the past is greyed out, and everything you can look forward to is in a bright green color. 
 
-If you know that you like to speed walk with Debra in the morning, you can just jot that down in the 10am block. Alsong with whatever else you have planned for the day.
+If you know that you like to speed walk with Debra in the morning, you can just jot that down in the 10am block. Along with whatever else you have planned for the day.
 
 <img src="images/enteryourengagements.png">
 
